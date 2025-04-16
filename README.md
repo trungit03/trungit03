@@ -2,12 +2,10 @@
 Hi, I'm **Nguyen Manh Trung** — an aspiring software developer based in **Hanoi, Vietnam**.
 I love crafting innovative solutions and diving into the ever-evolving world of technology.
 
-<hr>
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmt2811203@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/trung.nguyenmanh.501)
 
-<hr>
 
 ## 💻 Skills and Technologies
 
@@ -53,7 +51,6 @@ I love crafting innovative solutions and diving into the ever-evolving world of 
   </a>
 </p>
 
-<br>
 
 ## 📊 Github Stats
 
@@ -63,7 +60,6 @@ I love crafting innovative solutions and diving into the ever-evolving world of 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungit03&show_icons=true&locale=en&layout=compact&theme=radical" alt="trungit03" />
 </p>
 
-<hr>
 
 ## 🚀 Top Repositories
 
