@@ -55,15 +55,15 @@ I love crafting innovative solutions and diving into the ever-evolving world of 
 ## 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungit03&show_icons=true&locale=en&theme=radical&v=1" alt="trungit03" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trungit03&show_icons=true&locale=en&theme=radical&v=2" alt="trungit03" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungit03&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="trungit03" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungit03&show_icons=true&locale=en&layout=compact&theme=radical&v=2" alt="trungit03" />
 </p>
 
 
 ## 🚀 Top Repositories
 
-[![Drowsiness Detection with YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Drowsiness-Detection-Yolov8&theme=dracula)](https://github.com/trungit03/Drowsiness-Detection-Yolov8)
+[![Drowsiness Detection with YOLO11](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Drowsiness-Detection-Yolo11&theme=dracula)](https://github.com/trungit03/Drowsiness-Detection-Yolo11)
 [![Skin Cancer Diagnosis with ResNet](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Skin-Cancer-Diagnosis-Resnet&theme=dracula)](https://github.com/trungit03/Skin-Cancer-Diagnosis-Resnet)
 [![Diamond Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Text-Classification&theme=dracula)](https://github.com/trungit03/Text-Classification)
 [![Discharge Flow Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Discharge_Flow_Prediction&theme=dracula)](https://github.com/trungit03/Discharge_Flow_Prediction)
