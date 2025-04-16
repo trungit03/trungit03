@@ -55,9 +55,9 @@ I love crafting innovative solutions and diving into the ever-evolving world of 
 ## 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungit03&show_icons=true&locale=en&theme=radical" alt="trungit03" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trungit03&show_icons=true&locale=en&theme=radical&v=1" alt="trungit03" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungit03&show_icons=true&locale=en&layout=compact&theme=radical" alt="trungit03" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trungit03&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="trungit03" />
 </p>
 
 
