@@ -65,7 +65,7 @@ I love crafting innovative solutions and diving into the ever-evolving world of 
 
 [![Drowsiness Detection with YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Drowsiness-Detection-Yolov8&theme=dark)](https://github.com/trungit03/Drowsiness-Detection-Yolov8)
 [![Skin Cancer Diagnosis with ResNet](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Skin-Cancer-Diagnosis-Resnet&theme=dark)](https://github.com/trungit03/Skin-Cancer-Diagnosis-Resnet)
-[![Diamond Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Diamond-Price-Prediction&theme=dark)](https://github.com/trungit03/Diamond-Price-Prediction)
+[![Diamond Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Text-Classification&theme=dark)](https://github.com/trungit03/Text-Classification)
 [![Discharge Flow Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Discharge_Flow_Prediction&theme=dark)](https://github.com/trungit03/Discharge_Flow_Prediction)
 <!--
 **trungit03/trungit03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
