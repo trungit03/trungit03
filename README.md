@@ -12,12 +12,14 @@ I'm Nguyen Manh Trung, a passionate software developer based in Hanoi, Vietnam. 
 
 <hr>
 
-#Github Stats
+## Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trungit03&show_icons=true&locale=en" alt="trungit03" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trungit03&show_icons=true&locale=en&layout=compact" alt="trungit03" /></p>
 
-#My Repositories
+<hr>
+
+## My Repositories
 
 [![Drowsiness Detection with YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Drowsiness-Detection-Yolov8&theme=dark)](https://github.com/trungit03/Drowsiness-Detection-Yolov8)
 [![Skin Cancer Diagnosis with ResNet](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Skin-Cancer-Diagnosis-Resnet&theme=dark)](https://github.com/trungit03/Skin-Cancer-Diagnosis-Resnet)
