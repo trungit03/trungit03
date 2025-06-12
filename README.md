@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE👋👋👋
-Hi, I'm **Nguyen Manh Trung** — an aspiring software developer based in **Hanoi, Vietnam**.
+Hi, I'm **Nguyen Manh Trung** — an aspiring software developer in **Hanoi, Vietnam**.
 I love crafting innovative solutions and diving into the ever-evolving world of technology.
 
 
@@ -60,7 +60,7 @@ I love crafting innovative solutions and diving into the ever-evolving world of 
 
 ## 🚀 Top Repositories
 
-[![Drowsiness Detection with YOLO11](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Drowsiness-Detection-Yolo11&theme=dracula)](https://github.com/trungit03/Drowsiness-Detection-Yolo11)
+[![Driver Drowsiness Detection with YOLOv8](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Drowsiness-Detection-Yolo11&theme=dracula)](https://github.com/trungit03/Driver-Drowsiness-Detection-Yolov8.git)
 [![Skin Cancer Diagnosis with ResNet](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Skin-Cancer-Diagnosis-Resnet&theme=dracula)](https://github.com/trungit03/Skin-Cancer-Diagnosis-Resnet)
 [![Diamond Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Text-Classification&theme=dracula)](https://github.com/trungit03/Text-Classification)
 [![Discharge Flow Prediction](https://github-readme-stats.vercel.app/api/pin/?username=trungit03&repo=Discharge_Flow_Prediction&theme=dracula)](https://github.com/trungit03/Discharge_Flow_Prediction)
